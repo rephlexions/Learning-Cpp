@@ -1,0 +1,1 @@
+/usr/bin/c++.exe   -std=c++11 -g  -Wl,--enable-auto-import CMakeFiles/shortString_esame.dir/main.cpp.o CMakeFiles/shortString_esame.dir/shortStr_source.cpp.o  -o shortString_esame.exe -Wl,--out-implib,libshortString_esame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

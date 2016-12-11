@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Computer Science/Code/C++/Short String/main.cpp
+shortStr_header.h
+/cygdrive/d/Computer Science/Code/C++/Short String/shortStr_header.h
+iostream
+-
+cstring
+-
+
+/cygdrive/d/Computer Science/Code/C++/Short String/shortStr_header.h
+iostream
+-
+cstring
+-
+cstdlib
+-
+
+/cygdrive/d/Computer Science/Code/C++/Short String/shortStr_source.cpp
+shortStr_header.h
+/cygdrive/d/Computer Science/Code/C++/Short String/shortStr_header.h
+
