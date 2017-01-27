@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/main.cpp
+iostream
+-
+cstring
+-
+productlist.h
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/productlist.h
+
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/product.cpp
+product.h
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/product.h
+
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/product.h
+cstring
+-
+iostream
+-
+
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/productlist.cpp
+productlist.h
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/productlist.h
+
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/productlist.h
+product.h
+/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/product.h
+

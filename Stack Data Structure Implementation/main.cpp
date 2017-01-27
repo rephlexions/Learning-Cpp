@@ -12,7 +12,7 @@ int pop(int a[], int &n);
 
 void stampa(int a[]);
 
-
+    
 int main(){
     int n = 0;
     int array[maxsize];
