@@ -15,8 +15,8 @@ class Product{
     friend std::ostream&operator<<(std::ostream& os, const Product& c);
 
 public:
-    Product()= default;
-    Product(char n[], int c, int u, double p);
+    Product();
+    Product(const char n[], int c, int u, double p);
     ~Product();
 
 protected:

@@ -11,7 +11,7 @@ class ProductList{
 public:
     ProductList();
 
-    void addToHead(char nome[],int codice, int unita, double prezzo);
+    void addToHead(char nome[], int codice, int unita, double prezzo);
     void deleteNode(char nome[]);
     void printList();
 

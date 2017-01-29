@@ -1,1 +1,0 @@
-/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Linked_Lists_Shopping.dir/main.cpp.o CMakeFiles/Linked_Lists_Shopping.dir/product.cpp.o CMakeFiles/Linked_Lists_Shopping.dir/productlist.cpp.o  -o Linked_Lists_Shopping.exe -Wl,--out-implib,libLinked_Lists_Shopping.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

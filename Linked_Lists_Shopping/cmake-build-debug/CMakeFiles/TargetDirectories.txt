@@ -1,3 +1,0 @@
-/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/lefts/ClionProjects/Linked_Lists_Shopping/cmake-build-debug/CMakeFiles/Linked_Lists_Shopping.dir
